@@ -8,6 +8,7 @@
 - Solidity[3 years]: Profound mastery in smart contract development, laying a secure and reliable foundation for the blockchain ecosystem.
 - Java[6 years]: With years of experience in Java development, I excel in building and optimizing backend services to ensure system stability and scalability.
 - Front-end Development: Proficient in modern front-end technologies like Nextjs, React, and Vue, having developed several innovative projects that provide users with smooth and intuitive interactions.
+
 👨‍💻 Experience Journey:
 
 - Started with the development of e-government systems, accumulating the ability to handle complex business logic.
@@ -32,6 +33,7 @@ As a Web3 full-stack developer, I continuously pursue the depth and breadth of t
 - Solidity[3年]：深入掌握智能合约开发，为区块链世界打造安全可靠的代码基石。
 - Java[6年]：多年Java开发经验，精通后端服务的构建与优化，确保系统的稳定性与扩展性。
 - 前端开发：熟练运用Nextjs、React、Vue等现代前端技术栈，开发过多个创新项目，为用户提供流畅且直观的交互体验。
+
 👨‍💻 经验历程：
 
 - 从电子政务系统开发起步，积累了处理复杂业务逻辑的能力。
